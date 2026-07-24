@@ -181,7 +181,7 @@ st.sidebar.plotly_chart(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("**Portfolio Project**\n\nDeveloped by Leonardo Dias")
+st.sidebar.markdown("Developed by Leonardo Dias")
 
 # -----------------------------------------------------------------------------
 # 4. Main Dashboard Area
