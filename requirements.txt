@@ -3,3 +3,4 @@ numpy
 altair
 plotly
 streamlit
+vl-convert-python
