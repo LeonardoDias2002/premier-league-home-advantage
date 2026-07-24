@@ -17,7 +17,7 @@ Through a comparative analysis of the English Premier League, the study contrast
 ### 🚀 Interactive Dashboard (Streamlit)
 The data exploration results were encapsulated into an interactive dashboard, allowing for direct comparison of clubs' tactical and disciplinary profiles.
 
-> **[Access the Premier League Dashboard here](#)** *(Substitua a # pelo link após o deploy)*
+> **[Access the Premier League Dashboard here](https://pl-home-advantage.streamlit.app/)**
 
 ---
 
