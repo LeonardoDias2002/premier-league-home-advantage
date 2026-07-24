@@ -41,7 +41,7 @@ The data used in this study covers 760 official matches and comes from the **Dat
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/LeonardoDias2002/premier-league-home-advantage.git](https://github.com/LeonardoDias2002/premier-league-home-advantage.git)
+git clone https://github.com/LeonardoDias2002/premier-league-home-advantage.git
 cd premier-league-home-advantage
 ```
 
